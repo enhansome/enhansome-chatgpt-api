@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 606762843,
             "language": "JavaScript",
             "last_commit": "2026-07-04T11:01:27Z",
             "owner": "pot-app",
             "repo": "pot-desktop",
-            "stars": 19290
+            "stars": 19299
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 566323731,
             "language": "Swift",
             "last_commit": "2026-08-17T08:26:12Z",
             "owner": "tisfeng",
             "repo": "Easydict",
-            "stars": 14249
+            "stars": 14263
           }
         },
         {
@@ -43,11 +45,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 609416865,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T08:49:44Z",
+                "last_commit": "2026-08-19T07:25:52Z",
                 "owner": "nextai-translator",
                 "repo": "nextai-translator",
-                "stars": 24969
+                "stars": 24968
               }
             },
             {
@@ -57,11 +60,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 575401013,
                 "language": null,
-                "last_commit": "2026-08-14T09:54:35Z",
+                "last_commit": "2026-08-19T08:47:56Z",
                 "owner": "immersive-translate",
                 "repo": "immersive-translate",
-                "stars": 18513
+                "stars": 18522
               }
             },
             {
@@ -71,8 +75,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 614258120,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T19:50:51Z",
+                "last_commit": "2026-08-18T17:18:19Z",
                 "owner": "ChatGPTBox-dev",
                 "repo": "chatGPTBox",
                 "stars": 10751
@@ -92,11 +97,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 610038902,
                 "language": "Emacs Lisp",
-                "last_commit": "2026-08-13T21:35:35Z",
+                "last_commit": "2026-08-19T04:48:36Z",
                 "owner": "karthink",
                 "repo": "gptel",
-                "stars": 3481
+                "stars": 3480
               }
             },
             {
@@ -106,6 +112,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 610071879,
                 "language": "Emacs Lisp",
                 "last_commit": "2026-01-07T11:11:04Z",
                 "owner": "rksm",
@@ -127,11 +134,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 464105864,
                 "language": "TypeScript",
                 "last_commit": "2026-08-06T04:34:34Z",
                 "owner": "nhaouari",
                 "repo": "obsidian-textgenerator-plugin",
-                "stars": 1976
+                "stars": 1979
               }
             }
           ]
@@ -148,6 +156,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 498193079,
                 "language": "TypeScript",
                 "last_commit": "2024-10-09T05:37:54Z",
                 "owner": "briansunter",
@@ -169,6 +178,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 530455316,
                 "language": "TypeScript",
                 "last_commit": "2024-02-04T23:13:36Z",
                 "owner": "LayBacc",
@@ -190,6 +200,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 609176920,
                 "language": "JavaScript",
                 "last_commit": "2025-08-16T09:23:45Z",
                 "owner": "hirakujira",
@@ -211,11 +222,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 603668088,
                 "language": "TypeScript",
                 "last_commit": "2026-08-18T02:17:20Z",
                 "owner": "nextai-translator",
                 "repo": "bob-plugin-openai-translator",
-                "stars": 5656
+                "stars": 5655
               }
             }
           ]
@@ -232,6 +244,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 606790323,
                 "language": null,
                 "last_commit": "2026-02-27T11:53:03Z",
                 "owner": "Yue-Yang",
@@ -246,25 +259,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 618784448,
                 "language": null,
                 "last_commit": "2023-04-06T05:58:02Z",
                 "owner": "reorx",
                 "repo": "Share-to-ChatGPT-Shortcut",
                 "stars": 335
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "GitHub App",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "CR.GPT",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -280,6 +281,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 623164869,
                 "language": "JavaScript",
                 "last_commit": "2023-05-15T22:47:04Z",
                 "owner": "quinncomendant",
@@ -293,265 +295,287 @@
       "title": "Plugins and Extensions"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ChatGPT Next Web",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612344730,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T02:07:25Z",
+                "owner": "ChatGPTNextWeb",
+                "repo": "NextChat",
+                "stars": 88621
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chatbot UI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612640604,
+                "language": "TypeScript",
+                "last_commit": "2024-08-03T00:38:07Z",
+                "owner": "mckaywrigley",
+                "repo": "chatbot-ui",
+                "stars": 33337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT Web",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 599394820,
+                "language": "Vue",
+                "last_commit": "2024-08-16T15:26:57Z",
+                "owner": "Chanzhaoyu",
+                "repo": "chatgpt-web",
+                "stars": 31509
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-API Demo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608490374,
+                "language": "TypeScript",
+                "last_commit": "2023-12-27T01:44:01Z",
+                "owner": "anse-app",
+                "repo": "chatgpt-demo",
+                "stars": 7941
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Next.js ChatGPT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 615928156,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T14:11:50Z",
+                "owner": "enricoros",
+                "repo": "big-AGI",
+                "stars": 7089
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ChatGPT-like UI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ChatGPT Academic",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616372661,
+                "language": "Python",
+                "last_commit": "2026-01-25T12:33:10Z",
+                "owner": "binary-husky",
+                "repo": "gpt_academic",
+                "stars": 71203
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Visual ChatGPT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608555244,
+                "language": "Python",
+                "last_commit": "2024-01-06T02:41:20Z",
+                "owner": "chenfei-wu",
+                "repo": "TaskMatrix",
+                "stars": 34010
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatFiles",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620275636,
+                "language": "TypeScript",
+                "last_commit": "2024-12-17T10:26:50Z",
+                "owner": "guangzhengli",
+                "repo": "ChatFiles",
+                "stars": 3340
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GEO/AEO Tracker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158156129,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T11:11:56Z",
+                "owner": "danishashko",
+                "repo": "geo-aeo-tracker",
+                "stars": 242
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Special-purpose"
+        }
+      ],
       "title": "Web Apps"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "ChatGPT Next Web",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ChatBox",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 610260322,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T14:13:27Z",
+                "owner": "chatboxai",
+                "repo": "chatbox",
+                "stars": 41473
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpeakGPT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608789494,
+                "language": "Kotlin",
+                "last_commit": "2026-07-22T16:14:24Z",
+                "owner": "AndraxDev",
+                "repo": "speak-gpt",
+                "stars": 443
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WristAssist",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 613325626,
+                "language": "Java",
+                "last_commit": "2025-11-24T03:18:32Z",
+                "owner": "DevEmperor",
+                "repo": "WristAssist",
+                "stars": 126
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T02:07:25Z",
-            "owner": "ChatGPTNextWeb",
-            "repo": "NextChat",
-            "stars": 88617
-          }
+          "node_type": "group",
+          "title": "ChatGPT-like UI"
         },
         {
-          "node_type": "item",
-          "title": "Chatbot UI",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenAI Translator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609416865,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T07:25:52Z",
+                "owner": "nextai-translator",
+                "repo": "nextai-translator",
+                "stars": 24968
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Polyglot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614470292,
+                "language": "TypeScript",
+                "last_commit": "2025-09-03T09:45:40Z",
+                "owner": "liou666",
+                "repo": "polyglot",
+                "stars": 2586
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT Translator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609694623,
+                "language": "TypeScript",
+                "last_commit": "2023-03-20T23:47:37Z",
+                "owner": "simpleapples",
+                "repo": "chatgpt-translator",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NITM GPT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 606641451,
+                "language": "Dart",
+                "last_commit": "2026-07-15T10:54:00Z",
+                "owner": "deskbtm",
+                "repo": "nitmgpt",
+                "stars": 96
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-08-03T00:38:07Z",
-            "owner": "mckaywrigley",
-            "repo": "chatbot-ui",
-            "stars": 33339
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChatGPT Web",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vue",
-            "last_commit": "2024-08-16T15:26:57Z",
-            "owner": "Chanzhaoyu",
-            "repo": "chatgpt-web",
-            "stars": 31511
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChatGPT-API Demo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-12-27T01:44:01Z",
-            "owner": "anse-app",
-            "repo": "chatgpt-demo",
-            "stars": 7941
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Next.js ChatGPT",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T00:28:09Z",
-            "owner": "enricoros",
-            "repo": "big-AGI",
-            "stars": 7087
-          }
+          "node_type": "group",
+          "title": "Special-purpose"
         }
       ],
-      "title": "ChatGPT-like UI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ChatGPT Academic",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-25T12:33:10Z",
-            "owner": "binary-husky",
-            "repo": "gpt_academic",
-            "stars": 71197
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Visual ChatGPT",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-06T02:41:20Z",
-            "owner": "chenfei-wu",
-            "repo": "TaskMatrix",
-            "stars": 34011
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChatFiles",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-12-17T10:26:50Z",
-            "owner": "guangzhengli",
-            "repo": "ChatFiles",
-            "stars": 3340
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GEO/AEO Tracker",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T11:11:56Z",
-            "owner": "danishashko",
-            "repo": "geo-aeo-tracker",
-            "stars": 239
-          }
-        }
-      ],
-      "title": "Special-purpose"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Desktop & Mobile Apps"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ChatBox",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T14:13:27Z",
-            "owner": "chatboxai",
-            "repo": "chatbox",
-            "stars": 41461
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpeakGPT",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-07-22T16:14:24Z",
-            "owner": "AndraxDev",
-            "repo": "speak-gpt",
-            "stars": 443
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WristAssist",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-11-24T03:18:32Z",
-            "owner": "DevEmperor",
-            "repo": "WristAssist",
-            "stars": 126
-          }
-        }
-      ],
-      "title": "ChatGPT-like UI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OpenAI Translator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T08:49:44Z",
-            "owner": "nextai-translator",
-            "repo": "nextai-translator",
-            "stars": 24969
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Polyglot",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-09-03T09:45:40Z",
-            "owner": "liou666",
-            "repo": "polyglot",
-            "stars": 2586
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChatGPT Translator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-20T23:47:37Z",
-            "owner": "simpleapples",
-            "repo": "chatgpt-translator",
-            "stars": 141
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NITM GPT",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-07-15T10:54:00Z",
-            "owner": "deskbtm",
-            "repo": "nitmgpt",
-            "stars": 96
-          }
-        }
-      ],
-      "title": "Special-purpose"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -560,11 +584,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 638629097,
             "language": "Python",
             "last_commit": "2026-05-22T14:02:20Z",
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 48306
+            "stars": 48324
           }
         },
         {
@@ -574,11 +599,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 590604203,
             "language": "Python",
             "last_commit": "2026-07-02T06:03:01Z",
             "owner": "TheR1D",
             "repo": "shell_gpt",
-            "stars": 12241
+            "stars": 12245
           }
         },
         {
@@ -588,11 +614,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 608419025,
             "language": "Python",
             "last_commit": "2026-08-18T05:26:41Z",
             "owner": "yihong0618",
             "repo": "bilingual_book_maker",
-            "stars": 9583
+            "stars": 9584
           }
         },
         {
@@ -602,11 +629,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 601399291,
             "language": "TypeScript",
             "last_commit": "2026-08-14T15:26:32Z",
             "owner": "Nutlope",
             "repo": "aicommits",
-            "stars": 9089
+            "stars": 9092
           }
         },
         {
@@ -616,11 +644,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 602366280,
             "language": "Python",
             "last_commit": "2026-02-24T08:25:26Z",
             "owner": "yihong0618",
             "repo": "xiaogpt",
-            "stars": 6892
+            "stars": 6895
           }
         },
         {
@@ -630,11 +659,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 624091446,
             "language": "TypeScript",
             "last_commit": "2026-01-05T16:51:17Z",
             "owner": "BuilderIO",
             "repo": "ai-shell",
-            "stars": 5278
+            "stars": 5280
           }
         },
         {
@@ -644,6 +674,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 620999276,
             "language": "Go",
             "last_commit": "2026-03-09T15:06:08Z",
             "owner": "charmbracelet",
@@ -658,11 +689,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589727205,
             "language": "Python",
             "last_commit": "2026-07-04T02:59:13Z",
             "owner": "eli64s",
             "repo": "readme-ai",
-            "stars": 2969
+            "stars": 2971
           }
         },
         {
@@ -672,6 +704,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 459468857,
             "language": "TypeScript",
             "last_commit": "2026-08-18T03:12:54Z",
             "owner": "Zhengqbbb",
@@ -686,6 +719,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 578245357,
             "language": "Shell",
             "last_commit": "2024-06-19T12:46:21Z",
             "owner": "0xacx",
@@ -700,6 +734,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 609362705,
             "language": "Python",
             "last_commit": "2026-05-27T00:40:17Z",
             "owner": "piglei",
@@ -714,11 +749,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1151441959,
             "language": "Go",
             "last_commit": "2026-07-31T16:51:58Z",
             "owner": "onllm-dev",
             "repo": "onWatch",
-            "stars": 712
+            "stars": 713
           }
         },
         {
@@ -728,6 +764,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 610073059,
             "language": "Python",
             "last_commit": "2023-11-08T06:13:47Z",
             "owner": "Raychanan",
@@ -742,6 +779,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 609440028,
             "language": "JavaScript",
             "last_commit": "2023-11-25T16:57:00Z",
             "owner": "gnehs",
@@ -756,6 +794,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1147536369,
             "language": "TypeScript",
             "last_commit": "2026-08-10T08:46:59Z",
             "owner": "shep-ai",
@@ -770,6 +809,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 613561329,
             "language": "Python",
             "last_commit": "2023-05-21T16:23:03Z",
             "owner": "AineeJames",
@@ -784,6 +824,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 615913453,
             "language": "Go",
             "last_commit": "2023-05-10T01:20:55Z",
             "owner": "ingyamilmolinar",
@@ -798,6 +839,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 609389817,
             "language": "Go",
             "last_commit": "2025-03-06T10:06:52Z",
             "owner": "pandodao",
@@ -812,6 +854,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 614425687,
             "language": "Python",
             "last_commit": "2025-07-18T16:14:44Z",
             "owner": "fengyuli-dev",
@@ -826,11 +869,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1114841676,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T21:06:26Z",
+            "last_commit": "2026-08-19T03:42:06Z",
             "owner": "autohandai",
             "repo": "code-cli",
-            "stars": 177
+            "stars": 178
           }
         },
         {
@@ -840,6 +884,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 609186986,
             "language": "Python",
             "last_commit": "2024-12-11T09:35:35Z",
             "owner": "yufeikang",
@@ -854,6 +899,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 609947880,
             "language": "Rust",
             "last_commit": "2026-04-23T23:08:58Z",
             "owner": "dikkadev",
@@ -868,6 +914,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1129232830,
             "language": "Python",
             "last_commit": "2026-03-04T23:57:04Z",
             "owner": "shmlkv",
@@ -882,6 +929,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 608649563,
             "language": "Python",
             "last_commit": "2023-05-29T07:42:04Z",
             "owner": "efJerryYang",
@@ -896,6 +944,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 619932460,
             "language": "Go",
             "last_commit": "2023-10-13T12:31:38Z",
             "owner": "davidleitw",
@@ -910,24 +959,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 957420154,
             "language": "Python",
             "last_commit": "2025-06-28T09:32:25Z",
             "owner": "ManuelZierl",
             "repo": "fellow",
             "stars": 5
           }
-        },
-        {
-          "node_type": "item",
-          "title": "verdverm/chatgpt",
-          "description": null,
-          "children": []
         }
       ],
       "title": "CLI"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -941,6 +985,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 574278577,
                 "language": "Python",
                 "last_commit": "2026-06-14T10:45:48Z",
                 "owner": "father-bot",
@@ -955,6 +1000,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 609002853,
                 "language": "TypeScript",
                 "last_commit": "2026-04-06T19:48:25Z",
                 "owner": "tbxark",
@@ -969,6 +1015,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 574160606,
                 "language": "Python",
                 "last_commit": "2025-06-03T19:45:13Z",
                 "owner": "n3d1117",
@@ -983,6 +1030,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 574081232,
                 "language": "Python",
                 "last_commit": "2023-09-22T13:20:40Z",
                 "owner": "franalgaba",
@@ -997,6 +1045,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 582027665,
                 "language": "TypeScript",
                 "last_commit": "2024-05-13T17:34:01Z",
                 "owner": "RainEggplant",
@@ -1011,18 +1060,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 609474830,
                 "language": "Go",
                 "last_commit": "2026-02-02T12:06:46Z",
                 "owner": "leafduo",
                 "repo": "chatgpt-telegram-bot",
-                "stars": 156
+                "stars": 155
               }
-            },
-            {
-              "node_type": "item",
-              "title": "iamwavecut/telegram-chatgpt-bot",
-              "description": "Written in Go and comes with the Dockerfile for easy setup.",
-              "children": []
             }
           ]
         },
@@ -1038,6 +1082,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 611284377,
                 "language": "Python",
                 "last_commit": "2026-02-05T10:40:28Z",
                 "owner": "myreader-io",
@@ -1059,11 +1104,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 522158088,
                 "language": "Python",
-                "last_commit": "2026-08-18T09:01:59Z",
+                "last_commit": "2026-08-19T11:14:12Z",
                 "owner": "zhayujie",
                 "repo": "CowAgent",
-                "stars": 46542
+                "stars": 46565
               }
             }
           ]
@@ -1080,6 +1126,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 598539671,
                 "language": "Go",
                 "last_commit": "2025-07-08T09:42:50Z",
                 "owner": "ConnectAI-E",
@@ -1094,6 +1141,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 599686136,
                 "language": "JavaScript",
                 "last_commit": "2025-01-13T02:15:22Z",
                 "owner": "bestony",
@@ -1108,6 +1156,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 602806555,
                 "language": "Go",
                 "last_commit": "2025-02-25T01:38:12Z",
                 "owner": "whatwewant",
@@ -1122,6 +1171,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 608585471,
                 "language": "JavaScript",
                 "last_commit": "2023-06-12T21:21:00Z",
                 "owner": "forkpath",
@@ -1143,6 +1193,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 576072728,
                 "language": "Go",
                 "last_commit": "2026-06-25T02:35:00Z",
                 "owner": "eryajf",
@@ -1164,6 +1215,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 576845268,
                 "language": "TypeScript",
                 "last_commit": "2023-03-25T02:49:21Z",
                 "owner": "formulahendry",
@@ -1177,151 +1229,163 @@
       "title": "Chatbots"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenAI Cookbook",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468576060,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-19T09:58:29Z",
+                "owner": "openai",
+                "repo": "openai-cookbook",
+                "stars": 75348
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DocsGPT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 596516907,
+                "language": "Python",
+                "last_commit": "2026-08-19T11:19:26Z",
+                "owner": "arc53",
+                "repo": "DocsGPT",
+                "stars": 18220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Paul Graham GPT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608386780,
+                "language": "TypeScript",
+                "last_commit": "2023-07-28T17:50:55Z",
+                "owner": "mckaywrigley",
+                "repo": "paul-graham-gpt",
+                "stars": 2663
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Elasticsearch + GPT3 Answerer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 603674106,
+                "language": "HTML",
+                "last_commit": "2023-07-15T04:01:59Z",
+                "owner": "hunkim",
+                "repo": "es-gpt",
+                "stars": 209
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Embedchain",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656099147,
+                "language": "Python",
+                "last_commit": "2026-08-18T15:51:45Z",
+                "owner": "mem0ai",
+                "repo": "mem0",
+                "stars": 63589
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LlamaIndex 🦙 (GPT Index)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560704231,
+                "language": "Python",
+                "last_commit": "2026-08-18T16:37:12Z",
+                "owner": "run-llama",
+                "repo": "llama_index",
+                "stars": 51741
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gptcache",
+              "description": "⭐️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618276831,
+                "language": "Python",
+                "last_commit": "2025-07-11T09:04:36Z",
+                "owner": "zilliztech",
+                "repo": "GPTCache",
+                "stars": 8162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT Wrapper",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 573822937,
+                "language": "Python",
+                "last_commit": "2026-08-14T17:15:46Z",
+                "owner": "llm-workflow-engine",
+                "repo": "llm-workflow-engine",
+                "stars": 3719
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenAI proxy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616535660,
+                "language": "TypeScript",
+                "last_commit": "2023-11-14T04:31:30Z",
+                "owner": "egoist",
+                "repo": "openai-proxy",
+                "stars": 499
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
+        }
+      ],
       "title": "Development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OpenAI Cookbook",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T09:05:55Z",
-            "owner": "openai",
-            "repo": "openai-cookbook",
-            "stars": 75314
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DocsGPT",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T16:30:39Z",
-            "owner": "arc53",
-            "repo": "DocsGPT",
-            "stars": 18221
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Paul Graham GPT",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-07-28T17:50:55Z",
-            "owner": "mckaywrigley",
-            "repo": "paul-graham-gpt",
-            "stars": 2663
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Elasticsearch + GPT3 Answerer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2023-07-15T04:01:59Z",
-            "owner": "hunkim",
-            "repo": "es-gpt",
-            "stars": 209
-          }
-        }
-      ],
-      "title": "Projects"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Embedchain",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T05:29:39Z",
-            "owner": "mem0ai",
-            "repo": "mem0",
-            "stars": 63517
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LlamaIndex 🦙 (GPT Index)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T21:24:42Z",
-            "owner": "run-llama",
-            "repo": "llama_index",
-            "stars": 51722
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gptcache",
-          "description": "⭐️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-11T09:04:36Z",
-            "owner": "zilliztech",
-            "repo": "GPTCache",
-            "stars": 8159
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChatGPT Wrapper",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T17:15:46Z",
-            "owner": "llm-workflow-engine",
-            "repo": "llm-workflow-engine",
-            "stars": 3719
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenAI proxy",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-11-14T04:31:30Z",
-            "owner": "egoist",
-            "repo": "openai-proxy",
-            "stars": 499
-          }
-        }
-      ],
-      "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:36:26.330Z",
+    "last_updated": "2026-08-19T11:36:05.044Z",
     "original_repository": "reorx/awesome-chatgpt-api",
     "original_repository_sha": "11ebae2f71af13571d2fa0953af0b2f99240075a",
     "enhanced_repository": "enhansome/enhansome-chatgpt-api",
