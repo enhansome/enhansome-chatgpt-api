@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "pot-desktop",
-          "description": null,
+          "description": "pot-app/pot-desktop",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -19,7 +19,7 @@
             "open_issues": 449,
             "owner": "pot-app",
             "repo": "pot-desktop",
-            "stars": 19403,
+            "stars": 19406,
             "topics": [
               "linux",
               "macos",
@@ -39,7 +39,7 @@
         {
           "node_type": "item",
           "title": "Easydict",
-          "description": null,
+          "description": "tisfeng/Easydict",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -52,7 +52,7 @@
             "open_issues": 188,
             "owner": "tisfeng",
             "repo": "Easydict",
-            "stars": 14831,
+            "stars": 14833,
             "topics": [
               "app",
               "baidu",
@@ -81,7 +81,7 @@
             {
               "node_type": "item",
               "title": "OpenAI Translator",
-              "description": null,
+              "description": "nextai-translator/nextai-translator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -91,10 +91,10 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-03T09:35:54Z",
-                "open_issues": 531,
+                "open_issues": 532,
                 "owner": "nextai-translator",
                 "repo": "nextai-translator",
-                "stars": 24992,
+                "stars": 24994,
                 "topics": [
                   "browser-extension",
                   "chatgpt",
@@ -110,7 +110,7 @@
             {
               "node_type": "item",
               "title": "Immersive Translate",
-              "description": null,
+              "description": "immersive-translate/immersive-translate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -123,7 +123,7 @@
                 "open_issues": 385,
                 "owner": "immersive-translate",
                 "repo": "immersive-translate",
-                "stars": 19154,
+                "stars": 19159,
                 "topics": [
                   "chrome-extension",
                   "safari-extension",
@@ -136,7 +136,7 @@
             {
               "node_type": "item",
               "title": "ChatGPT Box",
-              "description": null,
+              "description": "ChatGPTBox-dev/chatGPTBox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -149,7 +149,7 @@
                 "open_issues": 219,
                 "owner": "ChatGPTBox-dev",
                 "repo": "chatGPTBox",
-                "stars": 10756,
+                "stars": 10757,
                 "topics": [
                   "browser-extension",
                   "chatgpt",
@@ -165,7 +165,7 @@
             {
               "node_type": "item",
               "title": "ChatHub",
-              "description": null,
+              "description": "chathub-dev/chathub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -199,7 +199,7 @@
             {
               "node_type": "item",
               "title": "GPTel",
-              "description": null,
+              "description": "karthink/gptel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -225,7 +225,7 @@
             {
               "node_type": "item",
               "title": "org-ai",
-              "description": null,
+              "description": "rksm/org-ai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -260,7 +260,7 @@
             {
               "node_type": "item",
               "title": "Obsidian Text Generator Plugin",
-              "description": null,
+              "description": "nhaouari/obsidian-textgenerator-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -303,7 +303,7 @@
             {
               "node_type": "item",
               "title": "Logseq Plugin GPT3 OpenAI",
-              "description": null,
+              "description": "briansunter/logseq-openai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -340,7 +340,7 @@
             {
               "node_type": "item",
               "title": "roam-ai",
-              "description": null,
+              "description": "LayBacc/roam-ai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -368,7 +368,7 @@
             {
               "node_type": "item",
               "title": "ChatGPT Grammar Check PopClip Extension",
-              "description": null,
+              "description": "hirakujira/ChatGPT-Grammar-Check-PopClip-Extension",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -396,7 +396,7 @@
             {
               "node_type": "item",
               "title": "OpenAI Translator Bob Plugin",
-              "description": null,
+              "description": "nextai-translator/bob-plugin-openai-translator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -430,7 +430,7 @@
             {
               "node_type": "item",
               "title": "ChatGPT Siri",
-              "description": null,
+              "description": "Yue-Yang/ChatGPT-Siri",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -458,7 +458,7 @@
             {
               "node_type": "item",
               "title": "Share to ChatGPT",
-              "description": null,
+              "description": "reorx/Share-to-ChatGPT-Shortcut",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -486,7 +486,7 @@
             {
               "node_type": "item",
               "title": "ChipiChat",
-              "description": null,
+              "description": "quinncomendant/ChipiChat.lbaction",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -524,7 +524,7 @@
             {
               "node_type": "item",
               "title": "ChatGPT Next Web",
-              "description": null,
+              "description": "ChatGPTNextWeb/NextChat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -537,7 +537,7 @@
                 "open_issues": 850,
                 "owner": "ChatGPTNextWeb",
                 "repo": "NextChat",
-                "stars": 88818,
+                "stars": 88820,
                 "topics": [
                   "calclaude",
                   "chatgpt",
@@ -565,7 +565,7 @@
             {
               "node_type": "item",
               "title": "Chatbot UI",
-              "description": null,
+              "description": "mckaywrigley/chatbot-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -586,7 +586,7 @@
             {
               "node_type": "item",
               "title": "ChatGPT Web",
-              "description": null,
+              "description": "Chanzhaoyu/chatgpt-web",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -607,7 +607,7 @@
             {
               "node_type": "item",
               "title": "ChatGPT-API Demo",
-              "description": null,
+              "description": "anse-app/chatgpt-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -637,7 +637,7 @@
             {
               "node_type": "item",
               "title": "Next.js ChatGPT",
-              "description": null,
+              "description": "enricoros/big-AGI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -647,10 +647,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T08:08:39Z",
-                "open_issues": 169,
+                "open_issues": 171,
                 "owner": "enricoros",
                 "repo": "big-AGI",
-                "stars": 7134,
+                "stars": 7133,
                 "topics": [
                   "agi",
                   "ai-agents",
@@ -677,7 +677,7 @@
             {
               "node_type": "item",
               "title": "Chat with GPT",
-              "description": null,
+              "description": "cogentapps/chat-with-gpt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -690,7 +690,7 @@
                 "open_issues": 96,
                 "owner": "cogentapps",
                 "repo": "chat-with-gpt",
-                "stars": 2347,
+                "stars": 2346,
                 "topics": [
                   "artificial-intelligence",
                   "chat",
@@ -716,7 +716,7 @@
             {
               "node_type": "item",
               "title": "ChatGPT Academic",
-              "description": null,
+              "description": "binary-husky/gpt_academic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -729,7 +729,7 @@
                 "open_issues": 330,
                 "owner": "binary-husky",
                 "repo": "gpt_academic",
-                "stars": 71399,
+                "stars": 71400,
                 "topics": [
                   "academic",
                   "chatglm-6b",
@@ -743,7 +743,7 @@
             {
               "node_type": "item",
               "title": "Visual ChatGPT",
-              "description": null,
+              "description": "chenfei-wu/TaskMatrix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -764,7 +764,7 @@
             {
               "node_type": "item",
               "title": "BiliGPT",
-              "description": null,
+              "description": "JimmyLv/BibiGPT-v1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -777,7 +777,7 @@
                 "open_issues": 41,
                 "owner": "JimmyLv",
                 "repo": "BibiGPT-v1",
-                "stars": 6225,
+                "stars": 6226,
                 "topics": [
                   "bilibili",
                   "chatgpt",
@@ -792,7 +792,7 @@
             {
               "node_type": "item",
               "title": "ResearchGPT",
-              "description": null,
+              "description": "mukulpatnaik/researchgpt",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -813,7 +813,7 @@
             {
               "node_type": "item",
               "title": "ChatFiles",
-              "description": null,
+              "description": "guangzhengli/ChatFiles",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -826,7 +826,7 @@
                 "open_issues": 18,
                 "owner": "guangzhengli",
                 "repo": "ChatFiles",
-                "stars": 3337,
+                "stars": 3338,
                 "topics": [
                   "chatbot",
                   "chatfile",
@@ -840,7 +840,7 @@
             {
               "node_type": "item",
               "title": "OpenAI Translator",
-              "description": null,
+              "description": "LanceMoe/openai-translator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -871,7 +871,7 @@
             {
               "node_type": "item",
               "title": "AI Subtitle Translator",
-              "description": null,
+              "description": "cgsvv/AISubtitle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -900,7 +900,7 @@
             {
               "node_type": "item",
               "title": "GEO/AEO Tracker",
-              "description": null,
+              "description": "danishashko/geo-aeo-tracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -913,7 +913,7 @@
                 "open_issues": 1,
                 "owner": "danishashko",
                 "repo": "geo-aeo-tracker",
-                "stars": 277,
+                "stars": 278,
                 "topics": [
                   "chatgpt",
                   "copilot",
@@ -946,7 +946,7 @@
             {
               "node_type": "item",
               "title": "ChatBox",
-              "description": null,
+              "description": "chatboxai/chatbox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -956,10 +956,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-24T14:09:13Z",
-                "open_issues": 1315,
+                "open_issues": 1316,
                 "owner": "chatboxai",
                 "repo": "chatbox",
-                "stars": 41926,
+                "stars": 41931,
                 "topics": [
                   "assistant",
                   "chatbot",
@@ -980,7 +980,7 @@
             {
               "node_type": "item",
               "title": "SpeakGPT",
-              "description": null,
+              "description": "AndraxDev/speak-gpt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1022,7 +1022,7 @@
             {
               "node_type": "item",
               "title": "WristAssist",
-              "description": null,
+              "description": "DevEmperor/WristAssist",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1063,7 +1063,7 @@
             {
               "node_type": "item",
               "title": "OpenAI Translator",
-              "description": null,
+              "description": "nextai-translator/nextai-translator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1073,10 +1073,10 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-03T09:35:54Z",
-                "open_issues": 531,
+                "open_issues": 532,
                 "owner": "nextai-translator",
                 "repo": "nextai-translator",
-                "stars": 24992,
+                "stars": 24994,
                 "topics": [
                   "browser-extension",
                   "chatgpt",
@@ -1092,7 +1092,7 @@
             {
               "node_type": "item",
               "title": "Polyglot",
-              "description": null,
+              "description": "liou666/polyglot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1120,7 +1120,7 @@
             {
               "node_type": "item",
               "title": "ChatGPT Translator",
-              "description": null,
+              "description": "simpleapples/chatgpt-translator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1151,7 +1151,7 @@
             {
               "node_type": "item",
               "title": "NITM GPT",
-              "description": null,
+              "description": "deskbtm/nitmgpt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1192,7 +1192,7 @@
         {
           "node_type": "item",
           "title": "aider",
-          "description": null,
+          "description": "Aider-AI/aider",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1202,10 +1202,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-22T14:02:20Z",
-            "open_issues": 1906,
+            "open_issues": 1908,
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 49332,
+            "stars": 49341,
             "topics": [
               "anthropic",
               "chatgpt",
@@ -1227,7 +1227,7 @@
         {
           "node_type": "item",
           "title": "ShellGPT",
-          "description": null,
+          "description": "TheR1D/shell_gpt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1265,7 +1265,7 @@
         {
           "node_type": "item",
           "title": "bilingual_book_maker",
-          "description": null,
+          "description": "yihong0618/bilingual_book_maker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1278,7 +1278,7 @@
             "open_issues": 107,
             "owner": "yihong0618",
             "repo": "bilingual_book_maker",
-            "stars": 9821,
+            "stars": 9823,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:10.327Z"
@@ -1286,7 +1286,7 @@
         {
           "node_type": "item",
           "title": "AI Commits",
-          "description": null,
+          "description": "Nutlope/aicommits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1307,7 +1307,7 @@
         {
           "node_type": "item",
           "title": "xiaogpt",
-          "description": null,
+          "description": "yihong0618/xiaogpt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1333,7 +1333,7 @@
         {
           "node_type": "item",
           "title": "AI Shell",
-          "description": null,
+          "description": "BuilderIO/ai-shell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1356,7 +1356,7 @@
         {
           "node_type": "item",
           "title": "mods",
-          "description": null,
+          "description": "charmbracelet/mods",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1369,7 +1369,7 @@
             "open_issues": 85,
             "owner": "charmbracelet",
             "repo": "mods",
-            "stars": 4522,
+            "stars": 4521,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:10.327Z"
@@ -1377,7 +1377,7 @@
         {
           "node_type": "item",
           "title": "README-AI",
-          "description": null,
+          "description": "eli64s/readme-ai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1419,7 +1419,7 @@
         {
           "node_type": "item",
           "title": "cz-git",
-          "description": null,
+          "description": "Zhengqbbb/cz-git",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1457,7 +1457,7 @@
         {
           "node_type": "item",
           "title": "chatGPT-shell-cli",
-          "description": null,
+          "description": "0xacx/chatGPT-shell-cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1493,7 +1493,7 @@
         {
           "node_type": "item",
           "title": "AI Vocabulary Builder",
-          "description": null,
+          "description": "piglei/ai-vocabulary-builder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1514,7 +1514,7 @@
         {
           "node_type": "item",
           "title": "onWatch",
-          "description": null,
+          "description": "onllm-dev/onWatch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1546,7 +1546,7 @@
         {
           "node_type": "item",
           "title": "ChatGPT-for-Translation",
-          "description": null,
+          "description": "Raychanan/ChatGPT-for-Translation",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1567,7 +1567,7 @@
         {
           "node_type": "item",
           "title": "subtitle-translator",
-          "description": null,
+          "description": "gnehs/subtitle-translator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1588,7 +1588,7 @@
         {
           "node_type": "item",
           "title": "Shep",
-          "description": null,
+          "description": "shep-ai/shep",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1597,7 +1597,7 @@
             "id": 1147536369,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:49:35Z",
+            "last_commit": "2026-10-03T02:52:49Z",
             "open_issues": 1,
             "owner": "shep-ai",
             "repo": "shep",
@@ -1630,7 +1630,7 @@
         {
           "node_type": "item",
           "title": "GPTerminator",
-          "description": null,
+          "description": "AineeJames/ChatGPTerminator",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1657,7 +1657,7 @@
         {
           "node_type": "item",
           "title": "DoctorGPT",
-          "description": null,
+          "description": "ingyamilmolinar/doctorgpt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1688,7 +1688,7 @@
         {
           "node_type": "item",
           "title": "Autohand Code CLI",
-          "description": null,
+          "description": "autohandai/code-cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1698,10 +1698,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-29T06:56:35Z",
-            "open_issues": 83,
+            "open_issues": 33,
             "owner": "autohandai",
             "repo": "code-cli",
-            "stars": 200,
+            "stars": 201,
             "topics": [
               "agentic-ai",
               "ai",
@@ -1723,7 +1723,7 @@
         {
           "node_type": "item",
           "title": "i18n-cli",
-          "description": null,
+          "description": "pandodao/i18n-cli",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1747,7 +1747,7 @@
         {
           "node_type": "item",
           "title": "Multimedia GPT",
-          "description": null,
+          "description": "fengyuli-dev/multimedia-gpt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1760,7 +1760,7 @@
             "open_issues": 3,
             "owner": "fengyuli-dev",
             "repo": "multimedia-gpt",
-            "stars": 179,
+            "stars": 178,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -1773,7 +1773,7 @@
         {
           "node_type": "item",
           "title": "ai-cli",
-          "description": null,
+          "description": "yufeikang/ai-cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1799,7 +1799,7 @@
         {
           "node_type": "item",
           "title": "turbocommit",
-          "description": null,
+          "description": "dikkadev/turboCommit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1820,7 +1820,7 @@
         {
           "node_type": "item",
           "title": "dna-claude-analysis",
-          "description": null,
+          "description": "shmlkv/dna-claude-analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1847,7 +1847,7 @@
         {
           "node_type": "item",
           "title": "chatgpt-cli",
-          "description": null,
+          "description": "efJerryYang/chatgpt-cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1876,7 +1876,7 @@
         {
           "node_type": "item",
           "title": "naming",
-          "description": null,
+          "description": "davidleitw/naming",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1905,7 +1905,7 @@
         {
           "node_type": "item",
           "title": "fellow",
-          "description": null,
+          "description": "ManuelZierl/fellow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1993,7 +1993,7 @@
                 "open_issues": 15,
                 "owner": "tbxark",
                 "repo": "ChatGPT-Telegram-Workers",
-                "stars": 3805,
+                "stars": 3806,
                 "topics": [
                   "bot",
                   "chatgpt",
@@ -2128,7 +2128,7 @@
             {
               "node_type": "item",
               "title": "myGPTReader",
-              "description": null,
+              "description": "myreader-io/myGPTReader",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2169,7 +2169,7 @@
             {
               "node_type": "item",
               "title": "zhayujie/chatgpt-on-wechat",
-              "description": null,
+              "description": "zhayujie/CowAgent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2179,10 +2179,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T07:43:19Z",
-                "open_issues": 55,
+                "open_issues": 92,
                 "owner": "zhayujie",
                 "repo": "CowAgent",
-                "stars": 47205,
+                "stars": 47217,
                 "topics": [
                   "ai",
                   "ai-agent",
@@ -2215,7 +2215,7 @@
             {
               "node_type": "item",
               "title": "Leizhenpeng feishu-chatGpt",
-              "description": null,
+              "description": "ConnectAI-E/feishu-openai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2245,7 +2245,7 @@
             {
               "node_type": "item",
               "title": "bestony/ChatGPT-Feishu",
-              "description": null,
+              "description": "bestony/ChatGPT-Feishu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2266,7 +2266,7 @@
             {
               "node_type": "item",
               "title": "go-zoox/chatgpt-for-chatbot-feishu",
-              "description": null,
+              "description": "whatwewant/chatgpt-for-chatbot-feishu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2287,7 +2287,7 @@
             {
               "node_type": "item",
               "title": "key7men/openai-feishu-bot",
-              "description": null,
+              "description": "forkpath/openai-feishu-bot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2315,7 +2315,7 @@
             {
               "node_type": "item",
               "title": "formulahendry/chatgpt-teams-bot",
-              "description": null,
+              "description": "formulahendry/chatgpt-teams-bot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2350,7 +2350,7 @@
             {
               "node_type": "item",
               "title": "OpenAI Cookbook",
-              "description": null,
+              "description": "openai/openai-cookbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2359,11 +2359,11 @@
                 "id": 468576060,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-02T14:49:58Z",
-                "open_issues": 310,
+                "last_commit": "2026-10-03T03:46:22Z",
+                "open_issues": 312,
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 76314,
+                "stars": 76321,
                 "topics": [
                   "chatgpt",
                   "gpt-4",
@@ -2376,7 +2376,7 @@
             {
               "node_type": "item",
               "title": "DocsGPT",
-              "description": null,
+              "description": "arc53/DocsGPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2385,8 +2385,8 @@
                 "id": 596516907,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T16:34:57Z",
-                "open_issues": 150,
+                "last_commit": "2026-10-02T20:53:52Z",
+                "open_issues": 162,
                 "owner": "arc53",
                 "repo": "DocsGPT",
                 "stars": 18301,
@@ -2418,7 +2418,7 @@
             {
               "node_type": "item",
               "title": "Paul Graham GPT",
-              "description": null,
+              "description": "mckaywrigley/paul-graham-gpt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2439,7 +2439,7 @@
             {
               "node_type": "item",
               "title": "Elasticsearch + GPT3 Answerer",
-              "description": null,
+              "description": "hunkim/es-gpt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2467,7 +2467,7 @@
             {
               "node_type": "item",
               "title": "Embedchain",
-              "description": null,
+              "description": "mem0ai/mem0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2477,10 +2477,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T20:07:39Z",
-                "open_issues": 780,
+                "open_issues": 781,
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 66476,
+                "stars": 66495,
                 "topics": [
                   "agentic-memory",
                   "agentic-memory-system",
@@ -2503,7 +2503,7 @@
             {
               "node_type": "item",
               "title": "LlamaIndex 🦙 (GPT Index)",
-              "description": null,
+              "description": "run-llama/llama_index",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2513,10 +2513,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-01T18:39:47Z",
-                "open_issues": 843,
+                "open_issues": 848,
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 52381,
+                "stars": 52388,
                 "topics": [
                   "agents",
                   "application",
@@ -2535,7 +2535,7 @@
             {
               "node_type": "item",
               "title": "gptcache",
-              "description": "⭐️",
+              "description": "zilliztech/GPTCache",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2576,7 +2576,7 @@
             {
               "node_type": "item",
               "title": "ChatGPT Wrapper",
-              "description": null,
+              "description": "llm-workflow-engine/llm-workflow-engine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2606,7 +2606,7 @@
             {
               "node_type": "item",
               "title": "Tiktokenizer",
-              "description": null,
+              "description": "dqbd/tiktokenizer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2634,7 +2634,7 @@
             {
               "node_type": "item",
               "title": "OpenAI proxy",
-              "description": null,
+              "description": "egoist/openai-proxy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2662,7 +2662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:36:32.994Z",
+    "last_updated": "2026-10-03T04:44:18.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.",
@@ -2674,7 +2674,7 @@
       "open_issues": 49,
       "owner": "reorx",
       "repo": "awesome-chatgpt-api",
-      "stars": 6424,
+      "stars": 6425,
       "topics": [
         "awesome",
         "awesome-list",
