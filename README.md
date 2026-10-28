@@ -32,21 +32,21 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
   A cross-platform (Windows/macOS/Linux) desktop translation and OCR tool that supports customizable ChatGPT API for text translation, with features like selection translation, input translation, and clipboard listening.
 
-* [Easydict](https://github.com/tisfeng/Easydict) ⭐ 15,092 | 🐛 189 | 🌐 Swift | 📅 2026-10-27
+* [Easydict](https://github.com/tisfeng/Easydict) ⭐ 15,103 | 🐛 189 | 🌐 Swift | 📅 2026-10-28
 
   A concise and elegant dictionary and translation app for macOS that supports multiple translation services including OpenAI API, with features like OCR recognition and input translation.
 
 * Chrome Extensions
 
-  * [OpenAI Translator](https://github.com/yetone/openai-translator) ⭐ 25,012 | 🐛 536 | 🌐 TypeScript | 📅 2026-10-24
+  * [OpenAI Translator](https://github.com/yetone/openai-translator) ⭐ 25,018 | 🐛 536 | 🌐 TypeScript | 📅 2026-10-24
 
     A Chrome extension that uses the OpenAI API to translate text, with additional features like polishing and summarization.
 
-  * [Immersive Translate](https://github.com/immersive-translate/immersive-translate) ⭐ 19,510 | 🐛 327 | 📅 2026-10-23
+  * [Immersive Translate](https://github.com/immersive-translate/immersive-translate) ⭐ 19,516 | 🐛 326 | 📅 2026-10-23
 
     A dual web page translation extension with immersive reading experience, you can add your own OpenAI key to use ChatGPT as a translation provider.
 
-  * [ChatGPT Box](https://github.com/josStorer/chatGPTBox) ⭐ 10,776 | 🐛 228 | 🌐 JavaScript | 📅 2026-10-26
+  * [ChatGPT Box](https://github.com/josStorer/chatGPTBox) ⭐ 10,776 | 🐛 224 | 🌐 JavaScript | 📅 2026-10-27
 
     Deep ChatGPT integrations in your browser. Supports call up the chat dialog box on any page at any time, summarize any page with right-click menu, Independent conversation page, multiple API and much more. This extension is available on Chrome, Edge, Safari and Firefox.
 
@@ -69,7 +69,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 * [Emacs](https://www.gnu.org/software/emacs/) Packages
 
-  * [GPTel](https://github.com/karthink/gptel) ⭐ 3,552 | 🐛 205 | 🌐 Emacs Lisp | 📅 2026-10-18
+  * [GPTel](https://github.com/karthink/gptel) ⭐ 3,553 | 🐛 205 | 🌐 Emacs Lisp | 📅 2026-10-18
 
     Add a major mode to Emacs that acts similar to ChatGPT web page. It supports multiple chat sessions and can send any text selection to ChatGPT API to get answers, proofreading, code suggestions, etc.
 
@@ -79,7 +79,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 * [Obsidian](https://obsidian.md/) Plugins
 
-  * [Obsidian Text Generator Plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) ⭐ 1,993 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-06
+  * [Obsidian Text Generator Plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) ⭐ 1,994 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-06
 
     Generate ideas, attractive titles, summaries, outlines, and whole paragraphs based on your notes in Obsidian.
 
@@ -117,7 +117,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 * [Bob](https://bobtranslate.com/) Plugins
 
-  * [OpenAI Translator Bob Plugin](https://github.com/yetone/bob-plugin-openai-translator) ⭐ 5,651 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-26
+  * [OpenAI Translator Bob Plugin](https://github.com/yetone/bob-plugin-openai-translator) ⭐ 5,651 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-26
 
     ChatGPT API based Bob plugin for text translation, text refinement, and grammar correction. It has a derived version that specifically emphasizes the task of proofreading: [OpenAI Polisher Bob Plugin](https://github.com/yetone/bob-plugin-openai-polisher) ⭐ 661 | 🐛 2 | 🌐 TypeScript | 📅 2025-06-07.
 
@@ -159,11 +159,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ### ChatGPT-like UI
 
-* [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ⭐ 88,903 | 🐛 855 | 🌐 TypeScript | 📅 2026-10-20<img src="https://img.shields.io/badge/-self--hosted-1adc61" />
+* [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ⭐ 88,911 | 🐛 857 | 🌐 TypeScript | 📅 2026-10-20<img src="https://img.shields.io/badge/-self--hosted-1adc61" />
 
   One-Click to deploy well-designed ChatGPT web UI on Vercel. The interface is polished to support pesponsive design, dark mode and PWA. With features like builtin prompts library, conversation compression, and export chat history as Markdown file.
 
-* [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) ⭐ 33,324 | 🐛 244 | 🌐 TypeScript | 📅 2024-08-03 <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
+* [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) ⭐ 33,326 | 🐛 245 | 🌐 TypeScript | 📅 2024-08-03 <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
 
   Chatbot UI is an advanced chatbot kit for OpenAI's chat models built on top of Chatbot UI Lite using Next.js, TypeScript, and Tailwind CSS.
 
@@ -177,7 +177,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
   Related project: [ChatGPT-Vercel](https://github.com/ourongxing/chatgpt-vercel) ⚠️ Archived is another ChatGPT web app based on ddiu8081/chatgpt-demo, specifically made for deploying on Vercel.
 
-* [Next.js ChatGPT](https://github.com/enricoros/nextjs-chatgpt-app) ⭐ 7,155 | 🐛 180 | 🌐 TypeScript | 📅 2026-10-27 <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
+* [Next.js ChatGPT](https://github.com/enricoros/nextjs-chatgpt-app) ⭐ 7,158 | 🐛 183 | 🌐 TypeScript | 📅 2026-10-28 <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
 
   Built using Next.js and TypeScript, this is a responsive chat web application powered by OpenAI's GPT-4, with chat streaming, code highlighting, code execution, development presets, and more.
 
@@ -195,17 +195,17 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ### Special-purpose
 
-* [ChatGPT Academic](https://github.com/binary-husky/chatgpt_academic) ⭐ 71,562 | 🐛 331 | 🌐 Python | 📅 2026-01-25
+* [ChatGPT Academic](https://github.com/binary-husky/chatgpt_academic) ⭐ 71,569 | 🐛 331 | 🌐 Python | 📅 2026-01-25
 
   Specialized ChatGPT application for scientific research work, optimized for academic paper proofreading experience, supports custom shortcut buttons, supports markdown table display, Tex formula dual display, improved code display function, added local Python project analysis/self-analysis function.
 
-* [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) ⭐ 33,938 | 🐛 262 | 🌐 Python | 📅 2024-01-06
+* [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) ⭐ 33,936 | 🐛 262 | 🌐 Python | 📅 2024-01-06
 
   Visual ChatGPT is a web app that connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.
 
 * [BiliGPT](https://b.jimmylv.cn/)
 
-  One-click summary of the subtitled Bilibili Video. Source code: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT) ⭐ 6,262 | 🐛 41 | 🌐 TypeScript | 📅 2026-05-04
+  One-click summary of the subtitled Bilibili Video. Source code: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT) ⭐ 6,263 | 🐛 41 | 🌐 TypeScript | 📅 2026-05-04
 
 * [ResearchGPT](https://researchgpt.ue.r.appspot.com/)
 
@@ -239,11 +239,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ### ChatGPT-like UI
 
-* [ChatBox](https://github.com/Bin-Huang/chatbox) ⭐ 42,162 | 🐛 1,354 | 🌐 TypeScript | 📅 2026-09-24
+* [ChatBox](https://github.com/Bin-Huang/chatbox) ⭐ 42,168 | 🐛 1,356 | 🌐 TypeScript | 📅 2026-09-24
 
   ChatBox is a cross-platform desktop client for OpenAI API, also a prompt debugging and management tool.
 
-* [SpeakGPT](https://github.com/AndraxDev/speak-gpt) ⭐ 446 | 🐛 10 | 🌐 Kotlin | 📅 2026-09-15
+* [SpeakGPT](https://github.com/AndraxDev/speak-gpt) ⭐ 447 | 🐛 10 | 🌐 Kotlin | 📅 2026-09-15
 
   A feature-rich Android ChatGPT client with Material Design 3, supporting GPT-4 Vision, DALL·E image generation, assistant mode, and a community prompts store. Allows users to configure their own API key.
 
@@ -277,7 +277,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ### Special-purpose
 
-* [OpenAI Translator](https://github.com/yetone/openai-translator) ⭐ 25,012 | 🐛 536 | 🌐 TypeScript | 📅 2026-10-24
+* [OpenAI Translator](https://github.com/yetone/openai-translator) ⭐ 25,018 | 🐛 536 | 🌐 TypeScript | 📅 2026-10-24
 
   Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 
@@ -303,25 +303,25 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ## CLI
 
-* [aider](https://github.com/paul-gauthier/aider) ⭐ 49,772 | 🐛 1,940 | 🌐 Python | 📅 2026-05-22
+* [aider](https://github.com/paul-gauthier/aider) ⭐ 49,793 | 🐛 1,939 | 🌐 Python | 📅 2026-05-22
 
   aider is a command-line chat tool that allows you to code with GPT-4 in the terminal. Ask GPT for features, improvements, or bug fixes and aider will apply the suggested changes to your source files. Each change is automatically committed to git with a descriptive commit message.
 
-* [ShellGPT](https://github.com/TheR1D/shell_gpt) ⭐ 12,298 | 🐛 122 | 🌐 Python | 📅 2026-07-02
+* [ShellGPT](https://github.com/TheR1D/shell_gpt) ⭐ 12,296 | 🐛 123 | 🌐 Python | 📅 2026-07-02
 
   A command-line productivity tool powered by ChatGPT. Features include generate shell commands, code snippets, comments, and documentation.
 
-* [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker) ⭐ 9,906 | 🐛 105 | 🌐 Python | 📅 2026-09-30
+* [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker) ⭐ 9,910 | 🐛 106 | 🌐 Python | 📅 2026-09-30
 
   Make bilingual epub books Using AI translate. Original tweet [@yihong0618](https://twitter.com/yihong0618/status/1630948132564631552)
 
   There's a web UI at [streamlit](https://goldengrape-bilingual-book-maker-streamlit-app-x7nhof.streamlit.app/), made by the author of this [tweet](https://twitter.com/goldengrape/status/1631549869306572800).
 
-* [AI Commits](https://github.com/Nutlope/aicommits) ⭐ 9,120 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-27
+* [AI Commits](https://github.com/Nutlope/aicommits) ⭐ 9,121 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-27
 
   A CLI that writes your git commit messages for you with AI.
 
-* [xiaogpt](https://github.com/yihong0618/xiaogpt) ⭐ 6,966 | 🐛 74 | 🌐 Python | 📅 2026-10-07
+* [xiaogpt](https://github.com/yihong0618/xiaogpt) ⭐ 6,968 | 🐛 74 | 🌐 Python | 📅 2026-10-07
 
   Play ChatGPT with Xiaomi AI Speaker.
 
@@ -333,7 +333,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
   mods works by reading standard in and prefacing it with a prompt supplied in the mods arguments. Optionally it formats output as Markdown, which you can pipe to markdown rendering CLIs. Example: `mods -f "what are your thoughts on improving this code?" < main.go | glow`
 
-* [README-AI](https://github.com/eli64s/README-AI) ⭐ 3,007 | 🐛 60 | 🌐 Python | 📅 2026-10-14
+* [README-AI](https://github.com/eli64s/README-AI) ⭐ 3,006 | 🐛 60 | 🌐 Python | 📅 2026-10-28
 
   Command-line tool for crafting aesthetic, structured, and informative README.md files. Powered by OpenAI's language model API.
 
@@ -361,7 +361,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
   A subtitle translation CLI tool based on ChatGPT developed using NodeJS. It also has a Electron GUI version [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) ⭐ 1,686 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-17
 
-* [Shep](https://github.com/shep-ai/cli) ⭐ 269 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-26
+* [Shep](https://github.com/shep-ai/cli) ⭐ 269 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-28
 
   A multi-session SDLC control center for AI coding agents that orchestrates the complete feature lifecycle — from requirements through testing to merged pull requests — using Claude Code, Cursor CLI, or Gemini, with configurable approval gates and a live web dashboard.
 
@@ -369,7 +369,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
   GPTerminator is a python package that provides a convenient way to interact with OpenAI's chat completion and image generation API's using your command line interface.
 
-* [Autohand Code CLI](https://github.com/autohandai/code-cli) ⭐ 211 | 🐛 58 | 🌐 TypeScript | 📅 2026-10-27
+* [Autohand Code CLI](https://github.com/autohandai/code-cli) ⭐ 211 | 🐛 50 | 🌐 TypeScript | 📅 2026-10-28
 
   A self-evolving autonomous coding agent for the terminal that supports multiple LLM API providers including OpenRouter, Anthropic, OpenAI, and Ollama. It uses a ReAct reasoning pattern, ships with 40+ built-in tools, and integrates with VS Code and Zed editors.
 
@@ -393,7 +393,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
   CLI that uses the staged diff and optional message to create Conventional commits.
 
-* [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2026-03-04
+* [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2026-03-04
 
   Personal genome analysis toolkit that uses LLM APIs to analyze raw DNA data across 17 categories (ancestry, health risks, nutrition, fitness, pharmacogenomics, and more) and generates a terminal-style single-page HTML visualization.
 
@@ -416,7 +416,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 ## Chatbots
 
 * Telegram
-  * [karfly/chatgpt\_telegram\_bot](https://github.com/karfly/chatgpt_telegram_bot) ⭐ 5,548 | 🐛 57 | 🌐 Python | 📅 2026-06-14: Written in **Python**.
+  * [karfly/chatgpt\_telegram\_bot](https://github.com/karfly/chatgpt_telegram_bot) ⭐ 5,549 | 🐛 57 | 🌐 Python | 📅 2026-06-14: Written in **Python**.
   * [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) ⭐ 3,815 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-15: This one has been specifically made for **Cloudflare Workers**.
   * [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) ⭐ 3,460 | 🐛 109 | 🌐 Python | 📅 2025-06-03: Written in **Python**.
   * [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) ⭐ 320 | 🐛 4 | 🌐 Python | 📅 2023-09-22: Free and in AWS serverless bot in **Python**.
@@ -428,10 +428,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     myGPTReader is a slack bot that can read any webpage, ebook, video(YouTube) or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.
 * WeChat
-  * [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ⭐ 47,624 | 🐛 52 | 🌐 Python | 📅 2026-10-27
+  * [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ⭐ 47,653 | 🐛 41 | 🌐 Python | 📅 2026-10-28
   * [ChatGPT for Wechat](https://chatgpt4wechat.aow.me/)
 * Feishu
-  * [Leizhenpeng feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt) ⭐ 5,627 | 🐛 89 | 🌐 Go | 📅 2025-07-08
+  * [Leizhenpeng feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt) ⭐ 5,629 | 🐛 89 | 🌐 Go | 📅 2025-07-08
   * [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) ⭐ 1,172 | 🐛 45 | 🌐 JavaScript | 📅 2025-01-13
   * [go-zoox/chatgpt-for-chatbot-feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu) ⭐ 313 | 🐛 9 | 🌐 Go | 📅 2025-02-25
   * [key7men/openai-feishu-bot](https://github.com/key7men/openai-feishu-bot) ⭐ 21 | 🐛 3 | 🌐 JavaScript | 📅 2023-06-12
@@ -444,11 +444,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ### Projects
 
-* [OpenAI Cookbook](https://github.com/openai/openai-cookbook) ⭐ 76,833 | 🐛 347 | 🌐 Jupyter Notebook | 📅 2026-10-26
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook) ⭐ 76,846 | 🐛 347 | 🌐 Jupyter Notebook | 📅 2026-10-28
 
   Official examples and guides for using the OpenAI API, including how to embedding long inputs, stream completions, format better inputs and much more.
 
-* [DocsGPT](https://github.com/arc53/docsgpt) ⭐ 18,334 | 🐛 114 | 🌐 Python | 📅 2026-10-27
+* [DocsGPT](https://github.com/arc53/docsgpt) ⭐ 18,339 | 🐛 99 | 🌐 Python | 📅 2026-10-28
 
   An open-source solution that streamlines the process of finding information in project documentation. With its integration of the powerful GPT models, developers can easily ask questions about a project and receive accurate answers.
 
@@ -466,11 +466,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ### Tools
 
-* [Embedchain](https://github.com/embedchain/embedchain) ⭐ 67,917 | 🐛 885 | 🌐 Python | 📅 2026-10-26
+* [Embedchain](https://github.com/embedchain/embedchain) ⭐ 67,997 | 🐛 890 | 🌐 Python | 📅 2026-10-26
 
   Framework to create LLM-powered ChatGPT like bots over your dataset
 
-* [LlamaIndex 🦙 (GPT Index)](https://github.com/jerryjliu/gpt_index) ⭐ 52,691 | 🐛 1,093 | 🌐 Python | 📅 2026-10-26
+* [LlamaIndex 🦙 (GPT Index)](https://github.com/jerryjliu/gpt_index) ⭐ 52,713 | 🐛 1,090 | 🌐 Python | 📅 2026-10-26
 
   LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data. It has a set of data structures that allow you to index your data for various LLM tasks, and remove concerns over prompt size limitations.
 
@@ -502,4 +502,4 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
